@@ -1,0 +1,19 @@
+#ifndef ARGUMENTSTYPES_HPP
+	#define ARGUMENTSTYPES_HPP
+
+	enum ArgumentsType {
+		NULL_STRING,
+		STRING,
+		NULL_NUMBER,
+		NUMBER,
+		NULL_USER,
+		USER,
+		NULL_CHANNEL,
+		CHANNEL,
+		NULL_BOOLEAN,
+		BOOLEAN,
+		NULL_TIME,
+		TIME,
+	};
+
+#endif

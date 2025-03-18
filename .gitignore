@@ -1,0 +1,14 @@
+#IDE
+.idea
+.vscode
+
+#EXECUTABLE
+ircserv
+ircserv_bot
+
+#DEPENDENCIES
+*.o
+*.d
+
+#LOG
+irc_server.log
